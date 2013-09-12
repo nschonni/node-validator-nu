@@ -1,0 +1,25 @@
+{
+  "name": "validator-nu",
+  "version": "0.0.1",
+  "description": "CLI wrapper for calling the validator.nu HTML5 validation service",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nschonni/node-validator-nu.git"
+  },
+  "keywords": [
+    "validation",
+    "html5",
+    "nu",
+    "validator",
+    "nu"
+  ],
+  "author": "Nick Schonning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nschonni/node-validator-nu/issues"
+  }
+}
